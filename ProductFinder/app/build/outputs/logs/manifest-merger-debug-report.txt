@@ -1,13 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [gr.pantrif:easy-android-splash-screen:0.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\868feb04f30eaa5c144329125c6a7960\easy-android-splash-screen-0.0.1\AndroidManifest.xml:2:1-19:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\3df88f07ecd69b3d2d1b3f558bde1501\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d382ba9b8c9ea9d7b43a9cfaea0ecdf4\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\bbc51c53aec70aeae5178e82f15e817a\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -23,6 +28,7 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\axkum\
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -36,31 +42,45 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\axkum\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
 	package
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:3:5-40
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:4:5-40
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-32:12
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:1-61:12
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:11:22-76
 application
-ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:13:5-59:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [gr.pantrif:easy-android-splash-screen:0.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\868feb04f30eaa5c144329125c6a7960\easy-android-splash-screen-0.0.1\AndroidManifest.xml:12:5-17:19
 MERGED from [gr.pantrif:easy-android-splash-screen:0.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\868feb04f30eaa5c144329125c6a7960\easy-android-splash-screen-0.0.1\AndroidManifest.xml:12:5-17:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\3df88f07ecd69b3d2d1b3f558bde1501\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\3df88f07ecd69b3d2d1b3f558bde1501\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
@@ -68,41 +88,55 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ax
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:20:9-48
 	android:roundIcon
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:17:9-54
 	android:configChanges
 		ADDED from [gr.pantrif:easy-android-splash-screen:0.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\868feb04f30eaa5c144329125c6a7960\easy-android-splash-screen-0.0.1\AndroidManifest.xml:14:9-70
 	android:icon
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:19:9-40
 activity#com.example.productfinder.SplashScreenActivity
-ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:12:19-55
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:23:19-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.example.productfinder.MainActivity
-ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:20:9-29:20
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:30:9-39:20
 	android:label
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:32:13-45
 	android:theme
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:21:13-41
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:31:13-41
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:49:9-51:55
+	android:value
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:50:13-58
+activity#com.example.productfinder.MapsActivity
+ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:53:9-57:20
+	android:label
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml:54:13-41
 uses-sdk
 INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
@@ -115,6 +149,16 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\axkum\.gradle\caches\t
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\3df88f07ecd69b3d2d1b3f558bde1501\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\3df88f07ecd69b3d2d1b3f558bde1501\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d382ba9b8c9ea9d7b43a9cfaea0ecdf4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
@@ -145,6 +189,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\axku
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\07608d1ce0a2b5e25216bbe877b06158\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
@@ -181,3 +227,37 @@ INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\An
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\axkum\AndroidStudioProjects\ProductFinder\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\d3fcd6c7f2fa4a45685e4873132840d7\jetified-play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\797589d722f6bbfe8bcb12bcd0ff99a7\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\axkum\.gradle\caches\transforms-2\files-2.1\98851a64c40abc374bc00ac31eadebeb\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
