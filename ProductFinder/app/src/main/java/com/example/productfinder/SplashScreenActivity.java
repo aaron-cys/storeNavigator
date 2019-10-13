@@ -19,16 +19,12 @@ public class SplashScreenActivity extends AppCompatActivity {
                 .withTargetActivity(MainActivity.class)
                 .withSplashTimeOut(5000)
                 .withBackgroundColor(Color.parseColor("#EDF1FF"))
-                .withHeaderText("Product Finder")
-                .withFooterText("TR-3")
-                .withBeforeLogoText("Text")
-                .withAfterLogoText("Text")
+                .withBeforeLogoText("Product Finder")
+                .withAfterLogoText("TR-3")
                 .withLogo(R.mipmap.ic_launcher_round);
 
-        config.getHeaderTextView().setTextColor(Color.WHITE);
-        config.getFooterTextView().setTextColor(Color.WHITE);
-        config.getBeforeLogoTextView().setTextColor(Color.WHITE);
-        config.getAfterLogoTextView().setTextColor(Color.WHITE);
+        config.getBeforeLogoTextView().setTextColor(Color.BLACK);
+        config.getAfterLogoTextView().setTextColor(Color.BLACK);
 
         View SplashScreen = config.create();
         setContentView(SplashScreen);
